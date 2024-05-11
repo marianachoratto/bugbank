@@ -4,4 +4,5 @@ export class PaginaCadastro {
   inputSenha = '[placeholder="Informe sua senha"]';
   inputConfirmacaoSenha = '[placeholder="Informe a confirmação da senha"]';
   buttonCadastrar = "[type='submit']";
+  buttonFechar = "#btnCloseModal";
 }
